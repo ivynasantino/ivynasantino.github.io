@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Parlametria - Leggo",
+    "description": "",
+    "cover": "img/parlametria_logo.jpeg",
+    "date": "25-03-2019",
+    "category": "research",
+    "isPublic": true,
+    "skill": ["R", "Django", "Docker", "Shell", "Vuejs", "PyTrends", "D3Js", "Vegalite"],
+    "url": "https://leggo.org.br"
+  },
+
+  {
+    "title": "Extrator de discursos - Câmara",
+    "description": "",
+    "cover": "img/parlametria_logo.jpeg",
+    "date": "01-08-2019",
+    "category": "pratice",
+    "isPublic": true,
+    "skill": ["Python", "Docker", "Regex"],
+    "url": "#"
+  },
+
+  {
+    "title": "Viés de discursos",
+    "description": "",
+    "cover": "img/parlametria_logo.jpeg",
+    "date": "01-11-2019",
+    "category": "research",
+    "isPublic": true,
+    "skill": ["Python", "NLP"],
+    "url": "#"
+  },
+
+  {
+    "title": "Tá na mesa",
+    "description": "",
+    "cover": "img/parlametria_logo.jpeg",
+    "date": "01-11-2019",
+    "category": "research",
+    "isPublic": true,
+    "skill": ["R", "SQL", "Docker", "Python", "Nodejs", "Angular 9"],
+    "url": "#"
+  },
+
+  {
+    "title": "Brasirama",
+    "description": "",
+    "cover": "img/parlametria_logo.jpeg",
+    "date": "24-08-2018",
+    "category": "pratice",
+    "isPublic": true,
+    "skill": ["R", "Vuejs"],
+    "url": "#"
+  },
+
+  {
+    "title": "Habla",
+    "description": "",
+    "cover": "img/parlametria_logo.jpeg",
+    "date": "01-02-2019",
+    "category": "pratice",
+    "isPublic": true,
+    "skill": ["Nodejs", "React Native", "Postgres", "GraphQL"],
+    "url": "#"
+  },
+
+  {
+    "title": "Rmetacritc",
+    "description": "",
+    "cover": "img/parlametria_logo.jpeg",
+    "date": "01-08-2019",
+    "category": "pratice",
+    "isPublic": true,
+    "skill": ["R", "Docker"],
+    "url": "#"
+  },
+
+  {
+    "title": "Rgenius",
+    "description": "",
+    "cover": "img/parlametria_logo.jpeg",
+    "date": "24-08-2018",
+    "category": "pratice",
+    "isPublic": true,
+    "skill": ["R", "Docker"],
+    "url": "#"
+  },
+
+  {
+    "title": "Enigma de César",
+    "description": "",
+    "cover": "img/parlametria_logo.jpeg",
+    "date": "24-08-2018",
+    "category": "pratice",
+    "isPublic": true,
+    "skill": ["C++", "Haskell", "Prolog"],
+    "url": "#"
+  },
+
+  {
+    "title": "Rcongresso",
+    "description": "",
+    "cover": "img/parlametria_logo.jpeg",
+    "date": "24-08-2018",
+    "category": "research",
+    "isPublic": true,
+    "skill": ["R"],
+    "url": "#"
+  },
+
+  {
+    "title": "Visualização de dados",
+    "description": "",
+    "cover": "img/parlametria_logo.jpeg",
+    "date": "24-08-2018",
+    "category": "pratice",
+    "isPublic": true,
+    "skill": ["D3Js", "Vegalite"],
+    "url": "#"
+  }
+]
