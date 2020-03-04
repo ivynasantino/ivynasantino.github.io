@@ -74,3 +74,12 @@ h1 {
   background-color: #F2FD3F!important;
   color: black;
 }
+
+.border {
+  box-sizing: border-box;
+  border-width: 10px;
+  width: 50%;
+  background: black;
+  border-radius: 10px;
+}
+
