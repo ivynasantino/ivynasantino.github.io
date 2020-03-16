@@ -1,5 +1,16 @@
 [
   {
+    "title": "HPE - Puma Vision",
+    "description": "",
+    "cover": "img/parlametria_logo.jpeg",
+    "date": "07-03-2020",
+    "category": "research",
+    "isPublic": true,
+    "skill": ["R", "Federated learning", "Colaborative Intelligence", "Python", "Prunning"],
+    "url": null
+  },
+
+  {
     "title": "Parlametria - Leggo",
     "description": "",
     "cover": "img/parlametria_logo.jpeg",
@@ -18,7 +29,7 @@
     "category": "pratice",
     "isPublic": true,
     "skill": ["Python", "Docker", "Regex"],
-    "url": "#"
+    "url": "https://github.com/dados-congresso/raspador-discursos-camara"
   },
 
   {
@@ -29,7 +40,7 @@
     "category": "research",
     "isPublic": true,
     "skill": ["Python", "NLP"],
-    "url": "#"
+    "url": "https://github.com/ivynasantino/vies-discursos-deputados"
   },
 
   {
@@ -40,7 +51,7 @@
     "category": "research",
     "isPublic": true,
     "skill": ["R", "SQL", "Docker", "Python", "Nodejs", "Angular 9"],
-    "url": "#"
+    "url": "https://ta-na-mesa-validacao.herokuapp.com/"
   },
 
   {
@@ -62,7 +73,7 @@
     "category": "pratice",
     "isPublic": true,
     "skill": ["Nodejs", "React Native", "Postgres", "GraphQL"],
-    "url": "#"
+    "url": "https://github.com/lucashsilva/habla-mobile"
   },
 
   {
@@ -73,7 +84,7 @@
     "category": "pratice",
     "isPublic": true,
     "skill": ["R", "Docker"],
-    "url": "#"
+    "url": "https://github.com/metalyrics/rmetacritic"
   },
 
   {
@@ -84,39 +95,39 @@
     "category": "pratice",
     "isPublic": true,
     "skill": ["R", "Docker"],
-    "url": "#"
+    "url": "https://github.com/metalyrics/rgenius"
   },
 
   {
     "title": "Enigma de César",
     "description": "",
     "cover": "img/parlametria_logo.jpeg",
-    "date": "24-08-2018",
+    "date": "24-08-2017",
     "category": "pratice",
     "isPublic": true,
     "skill": ["C++", "Haskell", "Prolog"],
-    "url": "#"
+    "url": "https://github.com/valterlucena/enigmadecesar"
   },
 
   {
     "title": "Rcongresso",
     "description": "",
     "cover": "img/parlametria_logo.jpeg",
-    "date": "24-08-2018",
+    "date": "24-03-2019",
     "category": "research",
     "isPublic": true,
     "skill": ["R"],
-    "url": "#"
+    "url": "https://github.com/analytics-ufcg/rcongresso"
   },
 
   {
     "title": "Visualização de dados",
     "description": "",
     "cover": "img/parlametria_logo.jpeg",
-    "date": "24-08-2018",
+    "date": "01-08-2019",
     "category": "pratice",
     "isPublic": true,
     "skill": ["D3Js", "Vegalite"],
-    "url": "#"
+    "url": "https://observablehq.com/@ivynasantino"
   }
 ]

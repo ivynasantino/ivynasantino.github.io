@@ -1,15 +1,15 @@
 [
   {
-    "start_date": "01-02-2009",
-    "end_date": "30-12-2012",
+    "start_date": "01-04-2015",
+    "end_date": "07-12-2019",
     "title": "Licentiate in Computer Science",
     "institution": "Universidade Federal de Campina Grande",
     "category": "Learning"
   },
 
   {
-    "start_date": "01-03-2010",
-    "end_date": "01-03-2012",
+    "start_date": "01-10-2015",
+    "end_date": "01-04-2016",
     "title": "Undergraduate Tutor in Computer Programming",
     "institution": "Universidade Federal de Campina Grande",
     "category": "Teaching",
@@ -17,60 +17,70 @@
   },
 
   {
-    "start_date": "01-03-2010",
-    "end_date": "01-03-2011",
-    "title": "Undergraduate Tutor in Data Structurs Laboratory",
+    "start_date": "01-10-2016",
+    "end_date": "01-03-2017",
+    "title": "Undergraduate Tutor in Discret Math",
     "institution": "Universidade Federal de Campina Grande",
     "category": "Teaching",
     "subcategory": "Tutor"
   },
 
   {
-    "start_date": "01-03-2011",
-    "end_date": "01-03-2012",
+    "start_date": "01-04-2017",
+    "end_date": "01-04-2018",
     "title": "Petiana",
     "institution": "Universidade Federal de Campina Grande",
     "category": "Researching"
   },
+
+  {
+    "start_date": "01-05-2018",
+    "end_date": "01-08-2018",
+    "title": "Undergraduate Tutor in Data Structurs Laboratory",
+    "institution": "Universidade Federal de Campina Grande",
+    "category": "Teaching",
+    "subcategory": "Tutor"
+  },
   
   {
-    "start_date": "01-03-2013",
-    "end_date": "29-07-2015",
+    "start_date": "25-03-2019",
+    "end_date": "15-01-2020",
     "title": "Full Stack Developer",
-    "institution": "Universidade Federal de Campina Grande",
+    "institution": "Dado Capital @Analytics Laboratory",
+    "category": "Development",
+    "subcategory": "Research"
+  },
+
+  {
+    "start_date": "01-11-2019",
+    "end_date": "07-03-2020",
+    "title": "Full Stack Developer",
+    "institution": "Transparência Brasil @Analytics Laboratory",
+    "category": "Development"
+  },
+
+  {
+    "start_date": "07-03-2020",
+    "end_date": null,
+    "title": "AI/ML Engineer",
+    "institution": "HP @Distributed Systems Laboratory",
     "category": "Researching"
   },
 
   {
-    "start_date": "01-03-2013",
-    "end_date": "01-03-2014",
-    "title": "Full Stack Developer",
-    "institution": "Universidade Federal de Campina Grande",
-    "category": "Researching"
-  },
-
-  {
-    "start_date": "01-02-2015",
-    "end_date": "20-12-2015",
+    "start_date": "01-07-2019",
+    "end_date": null,
     "title": "Maintainer",
     "institution": "OpenDevUFCG",
-    "category": "Researching"
+    "category": "Practicing"
   },
 
   {
-    "start_date": "01-08-2018",
-    "end_date": "30-09-2019",
-    "title": "Visualization Designer",
-    "institution": "Oncoguia",
+    "start_date": "01-07-2019",
+    "end_date": null,
+    "title": "Design",
+    "institution": "OpenDevUFCG",
     "category": "Practicing",
     "subcategory": "Visualization"
-  },
-  {
-    "start_date": "01-09-2018",
-    "end_date": "28-02-2019",
-    "title": "Intern at the Institut des Systèmes Intelligents et de Robotique ",
-    "institution": "Sorbonne Université",
-    "category": "Researching",
-    "subcategory": "Internship"
   }
 ]
