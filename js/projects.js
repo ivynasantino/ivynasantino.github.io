@@ -2,13 +2,13 @@
 var parseDate = d3.timeParse('%d-%m-%Y');
 
 function sortByDateDescending(a, b) {
-    // Dates will be cast to numbers automagically:
-    return b.date - a.date;
+  // Dates will be cast to numbers automagically:
+  return b.date - a.date;
 }
 
-d3.json('data/projects.json').then(function(data) {
+d3.json('data/projects.json').then(function (data) {
   // Parsing dates
-  data.forEach(function(d) {
+  data.forEach(function (d) {
     d.date = parseDate(d.date);
   });
 
@@ -20,7 +20,7 @@ d3.json('data/projects.json').then(function(data) {
     .enter()
     .append('div')
     .attr('class', 'col-sm-6 col-md-4 col-lg-3 mb-2 mx-4')
-    .attr('onclick', d => 'window.open("' + d.url + '")' )
+    .attr('onclick', d => 'window.open("' + d.url + '")')
     .style('display', d => d.isPublic ? 'inherit' : 'none')
     .append('div')
     .attr('class', d => 'card card-' + d.category);
@@ -40,6 +40,11 @@ d3.json('data/projects.json').then(function(data) {
     .attr('class', 'card-title')
     .text(d => d.title)
 
+  cardsBodies
+    .append('h7')
+    .attr('class', 'card-year')
+    .text(d => d.date.getFullYear())
+
   cardBodies
     .append('div')
     .attr('class', 'card-text')
@@ -48,6 +53,6 @@ d3.json('data/projects.json').then(function(data) {
   cards
     .append('div')
     .attr('class', 'card-footer')
-    .text(d => d.date.getFullYear())
+    .text(d => d.skills)
 
 });

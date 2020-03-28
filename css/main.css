@@ -59,6 +59,12 @@ h1 {
   font-size: 16px;
 }
 
+.card-year {
+  font-family: 'Raleway', sans-serif !important;
+  font-weight: 600;
+  font-size: 10px;
+}
+
 .card-text {
   font-family: 'Raleway', sans-serif !important;
   font-weight: 400;
@@ -93,4 +99,16 @@ h1 {
 
 .font-icons {
   font-size: 20px;
+}
+
+.roundedImage {
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  overflow:hidden;
+  -webkit-border-radius:50px;
+  -moz-border-radius:50px;
+  border-radius:50px;
+  width:90px;
+  height:90px;
 }
