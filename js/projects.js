@@ -53,6 +53,6 @@ d3.json('data/projects.json').then(function (data) {
   cards
     .append('div')
     .attr('class', 'card-footer')
-    .text(d => d.skill)
+    .text(d => d.skills)
 
 });
