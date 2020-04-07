@@ -27,7 +27,7 @@ var getTextIcon = function (data) {
     return (data.subcategory === 'Internship' ? '<i class="fa fa-plane"></i> ' : '<i class="fa fa-flask"></i> ') + data.title;
   
   if (data.category === 'Development')
-    return (data.subcategory === 'Research' ? '<i class="fa fa-clipboard"></i> ' : '<i class="fa fa-desktop"></i> ') + data.title;
+    return (data.subcategory === 'Researching' ? '<i class="fa fa-clipboard"></i> ' : '<i class="fa fa-desktop"></i> ') + data.title;
 
   if (data.category === 'Teaching')
     return (data.subcategory === 'Teacher' ? '<i class="fa fa-suitcase"></i> ' : '<i class="fa fa-comments"></i> ') + data.title;

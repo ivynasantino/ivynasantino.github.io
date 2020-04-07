@@ -40,7 +40,7 @@ d3.json('data/projects.json').then(function (data) {
     .attr('class', 'card-title')
     .text(d => d.title)
 
-  cardsBodies
+  cardBodies
     .append('h7')
     .attr('class', 'card-year')
     .text(d => d.date.getFullYear())
