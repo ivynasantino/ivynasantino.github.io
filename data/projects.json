@@ -62,8 +62,8 @@
     "date": "24-08-2018",
     "category": "pratice",
     "isPublic": true,
-    "skills": ["R", "Vuejs"],
-    "url": "#"
+    "skills": "R - Vuejs",
+    "url": "https://thayannevls.github.io/Brasirama/#/"
   },
 
   {
@@ -73,7 +73,7 @@
     "date": "01-02-2019",
     "category": "pratice",
     "isPublic": true,
-    "skills": ["Nodejs", "React Native", "Postgres", "GraphQL"],
+    "skills": "Nodejs - React Native - Postgres - GraphQL",
     "url": "https://github.com/lucashsilva/habla-mobile"
   },
 
@@ -97,17 +97,6 @@
     "isPublic": true,
     "skills": "R - Docker - Selenium",
     "url": "https://github.com/metalyrics/rgenius"
-  },
-
-  {
-    "title": "Enigma de César",
-    "description": "",
-    "cover": "img/parlametria_logo.jpeg",
-    "date": "24-08-2017",
-    "category": "pratice",
-    "isPublic": true,
-    "skill": ["C++", "Haskell", "Prolog"],
-    "url": "https://github.com/valterlucena/enigmadecesar"
   },
 
   {
