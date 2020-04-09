@@ -1,35 +1,35 @@
 [
   {
     "title": "HPE - Puma Vision",
-    "description": "",
+    "description": "Pesquisa e desenvolvimento de técnicas inovadoras para o desenvolvimento de ferramentas que aloquem modelos de forma distribuída e colaborativa, usando aprendizagem de máquina e mantendo os princípios de privacidade da informação.",
     "cover": "img/hpe.jpg",
     "date": "07-03-2020",
     "category": "research",
     "isPublic": true,
     "skill": ["R", "Federated learning", "Colaborative Intelligence", "Python", "Prunning"],
-    "skills": "R Federated learning Python",
-    "url": null
+    "skills": "Federated learning - Python",
+    "url": "https://www.hpe.com/br/pt/home.html"
   },
 
   {
     "title": "Parlametria - Leggo",
-    "description": "",
+    "description": "Intelligence platform for monitoring activities at the National Congress, using data science and machine learning to facilitate advocacy work and interests of RAC.",
     "cover": "img/parlametria_logo.jpeg",
     "date": "25-03-2019",
     "category": "research",
     "isPublic": true,
-    "skill": ["R", "Django", "Docker", "Shell", "Vuejs", "PyTrends", "D3Js", "Vegalite"],
+    "skills": "R - Django - Docker - Shell - Vuejs - PyTrends - D3Js - Vegalite",
     "url": "https://leggo.org.br"
   },
 
   {
     "title": "Extrator de discursos - Câmara",
-    "description": "",
+    "description": "Tool that retrieves information from speeches of deputies in political session in tabular way, facilitating the work of analyzing this data.",
     "cover": "img/parlametria_logo.jpeg",
     "date": "01-08-2019",
     "category": "pratice",
     "isPublic": true,
-    "skill": ["Python", "Docker", "Regex"],
+    "skills": "Python - Docker - Regex",
     "url": "https://github.com/dados-congresso/raspador-discursos-camara"
   },
 
@@ -38,20 +38,20 @@
     "description": "",
     "cover": "img/parlametria_logo.jpeg",
     "date": "01-11-2019",
-    "category": "research",
+    "category": "pratice",
     "isPublic": true,
-    "skill": ["Python", "NLP"],
+    "skills": "Python - NLP",
     "url": "https://github.com/ivynasantino/vies-discursos-deputados"
   },
 
   {
     "title": "Tá na mesa",
-    "description": "",
+    "description": "It is a platform aimed at assisting the community and observatories in monitoring the destination of the school lunch in the state of Rio Grande do Sul.",
     "cover": "img/parlametria_logo.jpeg",
     "date": "01-11-2019",
     "category": "research",
     "isPublic": true,
-    "skill": ["R", "SQL", "Docker", "Python", "Nodejs", "Angular 9"],
+    "skills": "R - SQL - Docker - Python - Nodejs - Angular 9",
     "url": "https://ta-na-mesa-validacao.herokuapp.com/"
   },
 
@@ -62,7 +62,7 @@
     "date": "24-08-2018",
     "category": "pratice",
     "isPublic": true,
-    "skill": ["R", "Vuejs"],
+    "skills": ["R", "Vuejs"],
     "url": "#"
   },
 
@@ -73,29 +73,29 @@
     "date": "01-02-2019",
     "category": "pratice",
     "isPublic": true,
-    "skill": ["Nodejs", "React Native", "Postgres", "GraphQL"],
+    "skills": ["Nodejs", "React Native", "Postgres", "GraphQL"],
     "url": "https://github.com/lucashsilva/habla-mobile"
   },
 
   {
     "title": "Rmetacritc",
-    "description": "",
+    "description": "This package includes a series of functions that give R users access to Metacritic's data. These data are obtained by scraping their website.",
     "cover": "img/parlametria_logo.jpeg",
     "date": "01-08-2019",
     "category": "pratice",
     "isPublic": true,
-    "skill": ["R", "Docker"],
+    "skills": "R - Docker",
     "url": "https://github.com/metalyrics/rmetacritic"
   },
 
   {
     "title": "Rgenius",
-    "description": "",
+    "description": "This package includes a series of functions that give R users access to Genius data. These data are obtained by scraping their website.",
     "cover": "img/parlametria_logo.jpeg",
     "date": "24-08-2018",
     "category": "pratice",
     "isPublic": true,
-    "skill": ["R", "Docker"],
+    "skills": "R - Docker - Selenium",
     "url": "https://github.com/metalyrics/rgenius"
   },
 
@@ -112,23 +112,24 @@
 
   {
     "title": "Rcongresso",
-    "description": "",
+    "description": "Pacote R para acessar dados do congresso nacional baseado na API RESTful criada em 2017, gerando data frames e interagindo bem com o tidyverse.",
     "cover": "img/parlametria_logo.jpeg",
     "date": "24-03-2019",
     "category": "research",
     "isPublic": true,
     "skill": ["R"],
+    "skills": "R",
     "url": "https://github.com/analytics-ufcg/rcongresso"
   },
 
   {
     "title": "Visualização de dados",
-    "description": "",
+    "description": "Personal profile that brings together a set of views on music and politics in storytelling format.",
     "cover": "img/parlametria_logo.jpeg",
     "date": "01-08-2019",
     "category": "pratice",
     "isPublic": true,
-    "skill": ["D3Js", "Vegalite"],
+    "skill": "D3Js - Vegalite",
     "url": "https://observablehq.com/@ivynasantino"
   }
 ]
