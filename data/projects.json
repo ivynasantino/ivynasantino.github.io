@@ -6,7 +6,6 @@
     "date": "07-03-2020",
     "category": "research",
     "isPublic": true,
-    "skill": ["R", "Federated learning", "Colaborative Intelligence", "Python", "Prunning"],
     "skills": "Federated learning - Python",
     "url": "https://www.hpe.com/br/pt/home.html"
   },
@@ -25,7 +24,7 @@
   {
     "title": "Extrator de discursos - Câmara",
     "description": "Tool that retrieves information from speeches of deputies in political session in tabular way, facilitating the work of analyzing this data.",
-    "cover": "img/parlametria_logo.jpeg",
+    "cover": "img/default.png",
     "date": "01-08-2019",
     "category": "pratice",
     "isPublic": true,
@@ -35,8 +34,8 @@
 
   {
     "title": "Viés de discursos",
-    "description": "",
-    "cover": "img/parlametria_logo.jpeg",
+    "description": "This package includes a series of functions that give R users access to Genius data. These data are obtained by scraping their website.",
+    "cover": "img/default.png",
     "date": "01-11-2019",
     "category": "pratice",
     "isPublic": true,
@@ -47,7 +46,7 @@
   {
     "title": "Tá na mesa",
     "description": "It is a platform aimed at assisting the community and observatories in monitoring the destination of the school lunch in the state of Rio Grande do Sul.",
-    "cover": "img/parlametria_logo.jpeg",
+    "cover": "img/default.png",
     "date": "01-11-2019",
     "category": "research",
     "isPublic": true,
@@ -57,8 +56,8 @@
 
   {
     "title": "Brasirama",
-    "description": "",
-    "cover": "img/parlametria_logo.jpeg",
+    "description": "It is a game that seeks to sensitize people about the inequalities that exist in our society. He tries to do this by putting the gambler in the place of people who live in the most different realities of our country.",
+    "cover": "img/default.png",
     "date": "24-08-2018",
     "category": "pratice",
     "isPublic": true,
@@ -68,8 +67,8 @@
 
   {
     "title": "Habla",
-    "description": "",
-    "cover": "img/parlametria_logo.jpeg",
+    "description": "This package includes a series of functions that give R users access to Genius data. These data are obtained by scraping their website.",
+    "cover": "img/default.png",
     "date": "01-02-2019",
     "category": "pratice",
     "isPublic": true,
@@ -80,7 +79,7 @@
   {
     "title": "Rmetacritc",
     "description": "This package includes a series of functions that give R users access to Metacritic's data. These data are obtained by scraping their website.",
-    "cover": "img/parlametria_logo.jpeg",
+    "cover": "img/rmetacritc.png",
     "date": "01-08-2019",
     "category": "pratice",
     "isPublic": true,
@@ -91,7 +90,7 @@
   {
     "title": "Rgenius",
     "description": "This package includes a series of functions that give R users access to Genius data. These data are obtained by scraping their website.",
-    "cover": "img/parlametria_logo.jpeg",
+    "cover": "img/default.png",
     "date": "24-08-2018",
     "category": "pratice",
     "isPublic": true,
@@ -102,11 +101,10 @@
   {
     "title": "Rcongresso",
     "description": "Pacote R para acessar dados do congresso nacional baseado na API RESTful criada em 2017, gerando data frames e interagindo bem com o tidyverse.",
-    "cover": "img/parlametria_logo.jpeg",
+    "cover": "img/default.png",
     "date": "24-03-2019",
     "category": "research",
     "isPublic": true,
-    "skill": ["R"],
     "skills": "R",
     "url": "https://github.com/analytics-ufcg/rcongresso"
   },
@@ -114,11 +112,11 @@
   {
     "title": "Visualização de dados",
     "description": "Personal profile that brings together a set of views on music and politics in storytelling format.",
-    "cover": "img/parlametria_logo.jpeg",
+    "cover": "img/visu.jpeg",
     "date": "01-08-2019",
     "category": "pratice",
     "isPublic": true,
-    "skill": "D3Js - Vegalite",
+    "skills": "D3Js - Vegalite",
     "url": "https://observablehq.com/@ivynasantino"
   }
 ]

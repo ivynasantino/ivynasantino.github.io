@@ -38,7 +38,7 @@ d3.json('data/projects.json').then(function (data) {
   cardBodies
     .append('h5')
     .attr('class', 'card-title')
-    .text(d => d.title)
+    .text(d => d.title + ' (' + d.date.getFullYear() + ')')
     
   cardBodies
     .append('div')
