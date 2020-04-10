@@ -26,7 +26,7 @@
     "description": "Tool that retrieves information from speeches of deputies in political session in tabular way, facilitating the work of analyzing this data.",
     "cover": "img/default.png",
     "date": "01-08-2019",
-    "category": "pratice",
+    "category": "",
     "isPublic": true,
     "skills": "Python - Docker - Regex",
     "url": "https://github.com/dados-congresso/raspador-discursos-camara"
@@ -37,7 +37,7 @@
     "description": "This package includes a series of functions that give R users access to Genius data. These data are obtained by scraping their website.",
     "cover": "img/default.png",
     "date": "01-11-2019",
-    "category": "pratice",
+    "category": "",
     "isPublic": true,
     "skills": "Python - NLP",
     "url": "https://github.com/ivynasantino/vies-discursos-deputados"
@@ -46,7 +46,7 @@
   {
     "title": "Tá na mesa",
     "description": "It is a platform aimed at assisting the community and observatories in monitoring the destination of the school lunch in the state of Rio Grande do Sul.",
-    "cover": "img/default.png",
+    "cover": "img/transparencia.jpg",
     "date": "01-11-2019",
     "category": "research",
     "isPublic": true,
@@ -57,9 +57,9 @@
   {
     "title": "Brasirama",
     "description": "It is a game that seeks to sensitize people about the inequalities that exist in our society. He tries to do this by putting the gambler in the place of people who live in the most different realities of our country.",
-    "cover": "img/default.png",
+    "cover": "img/hackfest.jpeg",
     "date": "24-08-2018",
-    "category": "pratice",
+    "category": "practice",
     "isPublic": true,
     "skills": "R - Vuejs",
     "url": "https://thayannevls.github.io/Brasirama/#/"
@@ -70,7 +70,7 @@
     "description": "This package includes a series of functions that give R users access to Genius data. These data are obtained by scraping their website.",
     "cover": "img/default.png",
     "date": "01-02-2019",
-    "category": "pratice",
+    "category": "",
     "isPublic": true,
     "skills": "Nodejs - React Native - Postgres - GraphQL",
     "url": "https://github.com/lucashsilva/habla-mobile"
@@ -81,7 +81,7 @@
     "description": "This package includes a series of functions that give R users access to Metacritic's data. These data are obtained by scraping their website.",
     "cover": "img/rmetacritc.png",
     "date": "01-08-2019",
-    "category": "pratice",
+    "category": "",
     "isPublic": true,
     "skills": "R - Docker",
     "url": "https://github.com/metalyrics/rmetacritic"
@@ -90,9 +90,9 @@
   {
     "title": "Rgenius",
     "description": "This package includes a series of functions that give R users access to Genius data. These data are obtained by scraping their website.",
-    "cover": "img/default.png",
+    "cover": "img/genius.png",
     "date": "24-08-2018",
-    "category": "pratice",
+    "category": "",
     "isPublic": true,
     "skills": "R - Docker - Selenium",
     "url": "https://github.com/metalyrics/rgenius"
@@ -114,7 +114,7 @@
     "description": "Personal profile that brings together a set of views on music and politics in storytelling format.",
     "cover": "img/visu.jpeg",
     "date": "01-08-2019",
-    "category": "pratice",
+    "category": "",
     "isPublic": true,
     "skills": "D3Js - Vegalite",
     "url": "https://observablehq.com/@ivynasantino"
