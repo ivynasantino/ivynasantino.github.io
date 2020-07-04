@@ -76,6 +76,14 @@
   },
 
   {
+    "start_date": "01-05-2020",
+    "end_date": null,
+    "title": "Maintainer",
+    "institution": "OpenMined",
+    "category": "Researching"
+  },
+
+  {
     "start_date": "01-07-2019",
     "end_date": "01-07-2020",
     "title": "Design",
