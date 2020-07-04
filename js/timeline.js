@@ -1,4 +1,12 @@
 var parseDate = d3.timeParse('%d-%m-%Y');
+var formatDate = d3.timeFormat('%b/%Y');
+function getEndDateFormat(d) {
+  if (!d.finished)
+    return ' - today';
+  if (formatDate(d.start_date) === formatDate(d.end_date))
+    return '';
+  return ` - ${formatDate(d.end_date)}`;
+}
 
 var getIcon = function (data) {
 
@@ -106,7 +114,7 @@ d3.json('data/timeline.json').then(function (data) {
   var clampX = (pos0) => pos0 > 520 ? pos0 - 150 : pos0;
   var mousemove = function (d) {
     Tooltip
-      .html('<b>' + getTextIcon(d) + '</b><br>' + d.institution)
+      .html(`<b>${getTextIcon(d)}</b><br>${d.institution}<br>${formatDate(d.start_date) + getEndDateFormat(d)}`)
       .style('left', (clampX(d3.mouse(this)[0]) - 100) + 'px')
       .style('top', d3.mouse(this)[1] + 'px');
   }

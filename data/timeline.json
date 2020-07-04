@@ -62,14 +62,14 @@
   {
     "start_date": "07-03-2020",
     "end_date": null,
-    "title": "AI/ML Engineer",
+    "title": "Data scientist",
     "institution": "HPE @Distributed Systems Laboratory",
     "category": "Researching"
   },
 
   {
     "start_date": "01-07-2019",
-    "end_date": null,
+    "end_date": "01-07-2020",
     "title": "Maintainer",
     "institution": "OpenDevUFCG",
     "category": "Practicing"
@@ -77,7 +77,7 @@
 
   {
     "start_date": "01-07-2019",
-    "end_date": null,
+    "end_date": "01-07-2020",
     "title": "Design",
     "institution": "OpenDevUFCG",
     "category": "Practicing",

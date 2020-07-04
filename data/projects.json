@@ -6,7 +6,7 @@
     "date": "07-03-2020",
     "category": "research",
     "isPublic": true,
-    "skills": "Federated learning - Python",
+    "skills": "Federated learning - Python - DevOps",
     "url": "https://www.hpe.com/br/pt/home.html"
   },
 
@@ -15,7 +15,7 @@
     "description": "Intelligence platform for monitoring activities at the National Congress, using data science and machine learning to facilitate advocacy work and interests of RAC.",
     "cover": "img/parlametria_logo.jpeg",
     "date": "25-03-2019",
-    "category": "research",
+    "category": "",
     "isPublic": true,
     "skills": "R - Django - Docker - Shell - Vuejs - PyTrends - D3Js - Vegalite",
     "url": "https://leggo.org.br"
@@ -26,7 +26,7 @@
     "description": "Tool that retrieves information from speeches of deputies in political session in tabular way, facilitating the work of analyzing this data.",
     "cover": "img/default.png",
     "date": "01-08-2019",
-    "category": "",
+    "category": "research",
     "isPublic": true,
     "skills": "Python - Docker - Regex",
     "url": "https://github.com/dados-congresso/raspador-discursos-camara"
@@ -34,10 +34,10 @@
 
   {
     "title": "Viés de discursos",
-    "description": "This package includes a series of functions that give R users access to Genius data. These data are obtained by scraping their website.",
+    "description": "Research project to calculate party alignment and contradiction through the speeches of deputies at the PEC 06/2019",
     "cover": "img/default.png",
     "date": "01-11-2019",
-    "category": "",
+    "category": "research",
     "isPublic": true,
     "skills": "Python - NLP",
     "url": "https://github.com/ivynasantino/vies-discursos-deputados"
@@ -48,7 +48,7 @@
     "description": "It is a platform aimed at assisting the community and observatories in monitoring the destination of the school lunch in the state of Rio Grande do Sul.",
     "cover": "img/transparencia.jpg",
     "date": "01-11-2019",
-    "category": "research",
+    "category": "",
     "isPublic": true,
     "skills": "R - SQL - Docker - Python - Nodejs - Angular 9",
     "url": "https://ta-na-mesa-validacao.herokuapp.com/"
@@ -70,7 +70,7 @@
     "description": "This package includes a series of functions that give R users access to Genius data. These data are obtained by scraping their website.",
     "cover": "img/default.png",
     "date": "01-02-2019",
-    "category": "",
+    "category": "practice",
     "isPublic": true,
     "skills": "Nodejs - React Native - Postgres - GraphQL",
     "url": "https://github.com/lucashsilva/habla-mobile"
@@ -100,7 +100,7 @@
 
   {
     "title": "Rcongresso",
-    "description": "Pacote R para acessar dados do congresso nacional baseado na API RESTful criada em 2017, gerando data frames e interagindo bem com o tidyverse.",
+    "description": "R package to access national congress data based on the RESTful API created in 2017, generating data frames and interacting well with tidyverse.",
     "cover": "img/default.png",
     "date": "24-03-2019",
     "category": "research",
