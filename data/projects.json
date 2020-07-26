@@ -110,7 +110,7 @@
   },
 
   {
-    "title": "Visualização de dados",
+    "title": "Data vis",
     "description": "Personal profile that brings together a set of views on music and politics in storytelling format.",
     "cover": "img/visu.jpeg",
     "date": "01-08-2019",
@@ -118,5 +118,18 @@
     "isPublic": true,
     "skills": "D3Js - Vegalite",
     "url": "https://observablehq.com/@ivynasantino"
+  },
+
+  {
+    "title": "Aventuras de hipsta",
+    "description": "Game created in the Gamedev marathon promoted by Alura, with the objective of showing initial concepts from the gaming world.",
+    "cover": "img/gamedev.jpeg",
+    "date": "01-07-2020",
+    "category": "practice",
+    "isPublic": true,
+    "skills": "P5Js - Javascript",
+    "url": "https://ivynasantino.github.io/aventuras-hipsta/"
   }
+
+
 ]
