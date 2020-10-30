@@ -76,6 +76,15 @@
   },
 
   {
+    "start_date": "01-08-2020",
+    "end_date": null,
+    "title": "Tech lead",
+    "institution": "Elas",
+    "category": "Practicing",
+    "subcategory": "Visualization"
+  },
+
+  {
     "start_date": "01-05-2020",
     "end_date": null,
     "title": "Maintainer",
