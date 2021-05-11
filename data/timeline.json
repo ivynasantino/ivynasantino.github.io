@@ -2,7 +2,15 @@
   {
     "start_date": "01-04-2015",
     "end_date": "07-12-2019",
-    "title": "Licentiate in Computer Science",
+    "title": "Bachelor in Computer Science",
+    "institution": "Universidade Federal de Campina Grande",
+    "category": "Learning"
+  },
+
+  {
+    "start_date": "01-03-2021",
+    "end_date": null,
+    "title": "Master degree in Computer Science",
     "institution": "Universidade Federal de Campina Grande",
     "category": "Learning"
   },
@@ -61,9 +69,17 @@
 
   {
     "start_date": "07-03-2020",
-    "end_date": null,
+    "end_date": "31-12-2020",
     "title": "Data scientist",
     "institution": "HPE @Distributed Systems Laboratory",
+    "category": "Researching"
+  },
+
+  {
+    "start_date": "10-01-2021",
+    "end_date": null,
+    "title": "Data scientist",
+    "institution": "Collins @Distributed Systems Laboratory",
     "category": "Researching"
   },
 
@@ -77,7 +93,7 @@
 
   {
     "start_date": "01-08-2020",
-    "end_date": null,
+    "end_date": "31-11-2020",
     "title": "Tech lead",
     "institution": "Elas",
     "category": "Practicing",
@@ -86,7 +102,7 @@
 
   {
     "start_date": "01-05-2020",
-    "end_date": null,
+    "end_date": "31-12-2020",
     "title": "Maintainer",
     "institution": "OpenMined",
     "category": "Researching"

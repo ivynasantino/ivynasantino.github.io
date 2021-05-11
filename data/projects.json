@@ -129,6 +129,17 @@
     "isPublic": true,
     "skills": "P5Js - Javascript",
     "url": "https://ivynasantino.github.io/aventuras-hipsta/"
+  },
+
+  {
+    "title": "Raio-x elas",
+    "description": "Website for information on the participation of women in the Bachelor of Computer Science course UFCG through data visualizations.",
+    "cover": "img/elascomputacao.jpg",
+    "date": "01-08-2020",
+    "category": "",
+    "isPublic": true,
+    "skills": "D3Js - Python - R - HTML - CSS",
+    "url": "https://elas.computacao.ufcg.edu.br/raio-x/"
   }
 
 
