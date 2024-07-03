@@ -9,8 +9,8 @@
 
   {
     "start_date": "01-03-2021",
-    "end_date": null,
-    "title": "Master degree in Computer Science",
+    "end_date": "01-06-2022",
+    "title": "Master degree in Computer Science - (Stop)",
     "institution": "Universidade Federal de Campina Grande",
     "category": "Learning"
   },
@@ -76,8 +76,24 @@
   },
 
   {
-    "start_date": "10-01-2021",
+    "start_date": "02-05-2022",
     "end_date": null,
+    "title": "Data scientist",
+    "institution": "Semantix",
+    "category": "Development"
+  },
+
+  {
+    "start_date": "01-07-2021",
+    "end_date": "30-04-2022",
+    "title": "Data scientist",
+    "institution": "Siteware @Distributed Systems Laboratory",
+    "category": "Development"
+  },
+
+  {
+    "start_date": "10-01-2021",
+    "end_date": "01-07-2021",
     "title": "Data scientist",
     "institution": "Collins @Distributed Systems Laboratory",
     "category": "Researching"
@@ -106,14 +122,5 @@
     "title": "Maintainer",
     "institution": "OpenMined",
     "category": "Researching"
-  },
-
-  {
-    "start_date": "01-07-2019",
-    "end_date": "01-07-2020",
-    "title": "Design",
-    "institution": "OpenDevUFCG",
-    "category": "Practicing",
-    "subcategory": "Visualization"
   }
 ]

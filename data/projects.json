@@ -1,10 +1,43 @@
 [
   {
+    "title": "Lloro (LLM) - Semantix",
+    "description": "Responsible for conducting research and development activities in the field of data science, including: generative intelligence models, natural language processing models, optimization, and chatbots for assisting stakeholders and data monitoring.",
+    "cover": "img/semantix.png",
+    "date": "02-05-2022",
+    "category": "development",
+    "isPublic": true,
+    "skills": "Scikit-Learn - LLMs - FastAPI - Pandas - Docker - JupyterLab - Google Cloud Platform (GCP) - k8s - Python - NLP - PostgreSQL - DataViz - PyTorch - GenAI",
+    "url": "https://huggingface.co/semantixai/Lloro"
+  },
+
+  {
+    "title": "Análise da participação feminina no curso de Ciência da Computação da UFCG",
+    "description": "Despite their great importance for the development of Computer Science, women still have a low participation in undergraduate courses of the area. In order to understand whether these low numbers apply to the Computer Science course at the Federal University of Campina Grande, a descriptive analysis of the data provided by the course department was carried out. From this analysis, it was possible to draw a profile of the female student body and understand aspects related to the rate of admission, completion, dropout, success and performance in subjects with greater retention in the course from the gender perspective, in order to know if gender is a determining factor for success in the course.",
+    "cover": "img/null.png",
+    "date": "01-07-2021",
+    "category": "research",
+    "isPublic": true,
+    "skills": "Research - Data analysis - DataViz",
+    "url": "https://sol.sbc.org.br/index.php/wit/article/view/15837"
+  },
+
+  {
+    "title": "Comunidade Women Techmakers João Pessoa: história, conquistas e percepção inicial sobre suas integrantes",
+    "description": "There are still many challenges that prevent women from starting and staying in the technology area, and a good part of them are related to cultural barriers and the lack of reception in academic and professional environments. The creation of female communities and the holding of events for this audience have proved to be important initiatives to encourage them to grow and also to give visibility to their needs and their potential. The present work reports the impact of one of these communities, started in 2016 in the State of Paraíba, and presents an initial analysis of the profile of the women who compose it concerning aspects such as race, age, and gender identity.",
+    "cover": "img/null.png",
+    "date": "01-07-2021",
+    "category": "research",
+    "isPublic": true,
+    "skills": "Research - Data analysis - DataViz",
+    "url": "https://sol.sbc.org.br/index.php/wit/article/view/15866"
+  },
+
+  {
     "title": "HPE - Puma Vision",
     "description": "Research and development of innovative techniques for the development of tools that allocate models in a distributed and collaborative way, using machine learning and maintaining the principles of information privacy.",
     "cover": "img/hpe.jpg",
     "date": "07-03-2020",
-    "category": "research",
+    "category": "development",
     "isPublic": true,
     "skills": "Federated learning - Python - DevOps",
     "url": "https://www.hpe.com/br/pt/home.html"
@@ -33,17 +66,6 @@
   },
 
   {
-    "title": "Viés de discursos",
-    "description": "Research project to calculate party alignment and contradiction through the speeches of deputies at the PEC 06/2019",
-    "cover": "img/default.png",
-    "date": "01-11-2019",
-    "category": "research",
-    "isPublic": true,
-    "skills": "Python - NLP",
-    "url": "https://github.com/ivynasantino/vies-discursos-deputados"
-  },
-
-  {
     "title": "Tá na mesa",
     "description": "It is a platform aimed at assisting the community and observatories in monitoring the destination of the school lunch in the state of Rio Grande do Sul.",
     "cover": "img/transparencia.jpg",
@@ -66,39 +88,6 @@
   },
 
   {
-    "title": "Habla",
-    "description": "This package includes a series of functions that give R users access to Genius data. These data are obtained by scraping their website.",
-    "cover": "img/default.png",
-    "date": "01-02-2019",
-    "category": "practice",
-    "isPublic": true,
-    "skills": "Nodejs - React Native - Postgres - GraphQL",
-    "url": "https://github.com/lucashsilva/habla-mobile"
-  },
-
-  {
-    "title": "Rmetacritc",
-    "description": "This package includes a series of functions that give R users access to Metacritic's data. These data are obtained by scraping their website.",
-    "cover": "img/rmetacritc.png",
-    "date": "01-08-2019",
-    "category": "",
-    "isPublic": true,
-    "skills": "R - Docker",
-    "url": "https://github.com/metalyrics/rmetacritic"
-  },
-
-  {
-    "title": "Rgenius",
-    "description": "This package includes a series of functions that give R users access to Genius data. These data are obtained by scraping their website.",
-    "cover": "img/genius.png",
-    "date": "24-08-2018",
-    "category": "",
-    "isPublic": true,
-    "skills": "R - Docker - Selenium",
-    "url": "https://github.com/metalyrics/rgenius"
-  },
-
-  {
     "title": "Rcongresso",
     "description": "R package to access national congress data based on the RESTful API created in 2017, generating data frames and interacting well with tidyverse.",
     "cover": "img/default.png",
@@ -118,17 +107,6 @@
     "isPublic": true,
     "skills": "D3Js - Vegalite",
     "url": "https://observablehq.com/@ivynasantino"
-  },
-
-  {
-    "title": "Aventuras de hipsta",
-    "description": "Game created in the Gamedev marathon promoted by Alura, with the objective of showing initial concepts from the gaming world.",
-    "cover": "img/gamedev.jpeg",
-    "date": "01-07-2020",
-    "category": "practice",
-    "isPublic": true,
-    "skills": "P5Js - Javascript",
-    "url": "https://ivynasantino.github.io/aventuras-hipsta/"
   },
 
   {
