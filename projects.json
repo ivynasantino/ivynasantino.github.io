@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Lloro (LLM) - Semantix",
+    "description": "Responsible for conducting research and development activities in the field of data science, including: generative intelligence models, natural language processing models, optimization, and chatbots for assisting stakeholders and data monitoring.",
+    "cover": "img/semantix.png",
+    "date": "02-05-2022",
+    "category": "development",
+    "isPublic": true,
+    "skills": "Scikit-Learn - LLMs - FastAPI - Pandas - Docker - JupyterLab - Google Cloud Platform (GCP) - k8s - Python - NLP - PostgreSQL - DataViz - PyTorch - GenAI",
+    "url": "https://huggingface.co/semantixai/Lloro"
+  },
+
+  {
+    "title": "Análise da participação feminina no curso de Ciência da Computação da UFCG",
+    "description": "Despite their great importance for the development of Computer Science, women still have a low participation in undergraduate courses of the area. In order to understand whether these low numbers apply to the Computer Science course at the Federal University of Campina Grande, a descriptive analysis of the data provided by the course department was carried out. From this analysis, it was possible to draw a profile of the female student body and understand aspects related to the rate of admission, completion, dropout, success and performance in subjects with greater retention in the course from the gender perspective, in order to know if gender is a determining factor for success in the course.",
+    "cover": "img/null.png",
+    "date": "01-07-2021",
+    "category": "research",
+    "isPublic": true,
+    "skills": "Research - Data analysis - DataViz",
+    "url": "https://sol.sbc.org.br/index.php/wit/article/view/15837"
+  },
+
+  {
+    "title": "Comunidade Women Techmakers João Pessoa: história, conquistas e percepção inicial sobre suas integrantes",
+    "description": "There are still many challenges that prevent women from starting and staying in the technology area, and a good part of them are related to cultural barriers and the lack of reception in academic and professional environments. The creation of female communities and the holding of events for this audience have proved to be important initiatives to encourage them to grow and also to give visibility to their needs and their potential. The present work reports the impact of one of these communities, started in 2016 in the State of Paraíba, and presents an initial analysis of the profile of the women who compose it concerning aspects such as race, age, and gender identity.",
+    "cover": "img/null.png",
+    "date": "01-07-2021",
+    "category": "research",
+    "isPublic": true,
+    "skills": "Research - Data analysis - DataViz",
+    "url": "https://sol.sbc.org.br/index.php/wit/article/view/15866"
+  },
+
+  {
+    "title": "HPE - Puma Vision",
+    "description": "Research and development of innovative techniques for the development of tools that allocate models in a distributed and collaborative way, using machine learning and maintaining the principles of information privacy.",
+    "cover": "img/hpe.jpg",
+    "date": "07-03-2020",
+    "category": "development",
+    "isPublic": true,
+    "skills": "Federated learning - Python - DevOps",
+    "url": "https://www.hpe.com/br/pt/home.html"
+  },
+
+  {
+    "title": "Parlametria - Leggo",
+    "description": "Intelligence platform for monitoring activities at the National Congress, using data science and machine learning to facilitate advocacy work and interests of RAC.",
+    "cover": "img/parlametria_logo.jpeg",
+    "date": "25-03-2019",
+    "category": "",
+    "isPublic": true,
+    "skills": "R - Django - Docker - Shell - Vuejs - PyTrends - D3Js - Vegalite",
+    "url": "https://leggo.org.br"
+  },
+
+  {
+    "title": "Extrator de discursos - Câmara",
+    "description": "Tool that retrieves information from speeches of deputies in political session in tabular way, facilitating the work of analyzing this data.",
+    "cover": "img/default.png",
+    "date": "01-08-2019",
+    "category": "research",
+    "isPublic": true,
+    "skills": "Python - Docker - Regex",
+    "url": "https://github.com/dados-congresso/raspador-discursos-camara"
+  },
+
+  {
+    "title": "Tá na mesa",
+    "description": "It is a platform aimed at assisting the community and observatories in monitoring the destination of the school lunch in the state of Rio Grande do Sul.",
+    "cover": "img/transparencia.jpg",
+    "date": "01-11-2019",
+    "category": "",
+    "isPublic": true,
+    "skills": "R - SQL - Docker - Python - Nodejs - Angular 9",
+    "url": "https://ta-na-mesa-validacao.herokuapp.com/"
+  },
+
+  {
+    "title": "Brasirama",
+    "description": "It is a game that seeks to sensitize people about the inequalities that exist in our society. He tries to do this by putting the gambler in the place of people who live in the most different realities of our country.",
+    "cover": "img/hackfest.jpeg",
+    "date": "24-08-2018",
+    "category": "practice",
+    "isPublic": true,
+    "skills": "R - Vuejs",
+    "url": "https://thayannevls.github.io/Brasirama/#/"
+  },
+
+  {
+    "title": "Rcongresso",
+    "description": "R package to access national congress data based on the RESTful API created in 2017, generating data frames and interacting well with tidyverse.",
+    "cover": "img/default.png",
+    "date": "24-03-2019",
+    "category": "research",
+    "isPublic": true,
+    "skills": "R",
+    "url": "https://github.com/analytics-ufcg/rcongresso"
+  },
+
+  {
+    "title": "Data vis",
+    "description": "Personal profile that brings together a set of views on music and politics in storytelling format.",
+    "cover": "img/visu.jpeg",
+    "date": "01-08-2019",
+    "category": "",
+    "isPublic": true,
+    "skills": "D3Js - Vegalite",
+    "url": "https://observablehq.com/@ivynasantino"
+  },
+
+  {
+    "title": "Raio-x elas",
+    "description": "Website for information on the participation of women in the Bachelor of Computer Science course UFCG through data visualizations.",
+    "cover": "img/elascomputacao.jpg",
+    "date": "01-08-2020",
+    "category": "",
+    "isPublic": true,
+    "skills": "D3Js - Python - R - HTML - CSS",
+    "url": "https://elas.computacao.ufcg.edu.br/raio-x/"
+  }
+
+
+]

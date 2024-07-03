@@ -1,0 +1,126 @@
+[
+  {
+    "start_date": "01-04-2015",
+    "end_date": "07-12-2019",
+    "title": "Bachelor in Computer Science",
+    "institution": "Universidade Federal de Campina Grande",
+    "category": "Learning"
+  },
+
+  {
+    "start_date": "01-03-2021",
+    "end_date": "01-06-2022",
+    "title": "Master degree in Computer Science - (Stop)",
+    "institution": "Universidade Federal de Campina Grande",
+    "category": "Learning"
+  },
+
+  {
+    "start_date": "01-10-2015",
+    "end_date": "01-04-2016",
+    "title": "Undergraduate Tutor in Computer Programming",
+    "institution": "Universidade Federal de Campina Grande",
+    "category": "Teaching",
+    "subcategory": "Tutor"
+  },
+
+  {
+    "start_date": "01-10-2016",
+    "end_date": "01-03-2017",
+    "title": "Undergraduate Tutor in Discret Math",
+    "institution": "Universidade Federal de Campina Grande",
+    "category": "Teaching",
+    "subcategory": "Tutor"
+  },
+
+  {
+    "start_date": "01-04-2017",
+    "end_date": "01-04-2018",
+    "title": "Petiana",
+    "institution": "Universidade Federal de Campina Grande",
+    "category": "Researching"
+  },
+
+  {
+    "start_date": "01-05-2018",
+    "end_date": "01-08-2018",
+    "title": "Undergraduate Tutor in Data Structurs Laboratory",
+    "institution": "Universidade Federal de Campina Grande",
+    "category": "Teaching",
+    "subcategory": "Tutor"
+  },
+  
+  {
+    "start_date": "25-03-2019",
+    "end_date": "15-01-2020",
+    "title": "Full Stack Developer",
+    "institution": "Dado Capital @Analytics Laboratory",
+    "category": "Development",
+    "subcategory": "Researching"
+  },
+
+  {
+    "start_date": "01-11-2019",
+    "end_date": "07-03-2020",
+    "title": "Full Stack Developer",
+    "institution": "Transparência Brasil @Analytics Laboratory",
+    "category": "Development"
+  },
+
+  {
+    "start_date": "07-03-2020",
+    "end_date": "31-12-2020",
+    "title": "Data scientist",
+    "institution": "HPE @Distributed Systems Laboratory",
+    "category": "Researching"
+  },
+
+  {
+    "start_date": "02-05-2022",
+    "end_date": null,
+    "title": "Data scientist",
+    "institution": "Semantix",
+    "category": "Development"
+  },
+
+  {
+    "start_date": "01-07-2021",
+    "end_date": "30-04-2022",
+    "title": "Data scientist",
+    "institution": "Siteware @Distributed Systems Laboratory",
+    "category": "Development"
+  },
+
+  {
+    "start_date": "10-01-2021",
+    "end_date": "01-07-2021",
+    "title": "Data scientist",
+    "institution": "Collins @Distributed Systems Laboratory",
+    "category": "Researching"
+  },
+
+  {
+    "start_date": "01-07-2019",
+    "end_date": "01-07-2020",
+    "title": "Maintainer",
+    "institution": "OpenDevUFCG",
+    "category": "Practicing"
+  },
+
+  {
+    "start_date": "01-08-2020",
+    "end_date": "31-11-2020",
+    "title": "Tech lead",
+    "institution": "Elas",
+    "category": "Practicing",
+    "subcategory": "Visualization"
+  },
+
+  {
+    "start_date": "01-05-2020",
+    "end_date": "31-12-2020",
+    "title": "Maintainer",
+    "institution": "OpenMined",
+    "category": "Researching"
+  }
+]
